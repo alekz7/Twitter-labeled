@@ -1,0 +1,7 @@
+cd code\py\labeled-tweet...>
+python -m venv myenv
+myenv\Scripts\activate
+pip install flask
+#pointing to python36 run python app.py
+cd code\py\labeled-tweet...> C:\users\...\python36\python app.py
+#results in http://localhost:5040/
